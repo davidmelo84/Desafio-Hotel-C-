@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DXO5WjEVyq8Vp6+hYKJcCTMZGOELNZE4TfEDgtX6+9Owz6LGHrbgUdC748udC8Ns2cA4j+PemQtOKoFcdHV68w==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\DAVID M. MELO\\trilha-net-explorando-desafio\\DesafioProjetoHospedagem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DAVID M. MELO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\DAVID M. MELO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\DAVID M. MELO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\DAVID M. MELO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
